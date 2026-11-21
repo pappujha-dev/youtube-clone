@@ -1,0 +1,9 @@
+# Downloaded images without redistribution permission
+images/logo/*
+images/shorts/*
+images/thumb/*
+
+# System files
+Thumbs.db
+.DS_Store
+desktop.ini
